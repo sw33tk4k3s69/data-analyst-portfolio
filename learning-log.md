@@ -1,7 +1,14 @@
+## Oct. 13-14, 2026 (4 hrs)
+  - Did: Finished Excel formulas(5:27:49 - 5:52:46)
+  - Learned: Learned about formulas in Excel, specifically: LEN, LEFT/RIGHT, DATETOTEXT, TRIM, SUBSTITUTE, SUM/SUMIF, COUNT, CONCATENATE, DAYS/NETWORKDAYS
+  - Recap: Was a lot of information today, only had one issue with NETWORKDAYS. Was feeding it a range and it didn't like everything at once. So I had to only feed it two cells then duplicate that down the column. I copied and pasted a lot of the functions and their arguments in my Canva notes for an easy callback if needed while working on things.
+  - Tomorrow: XLookup(I think) starting at 5:53:00 approx.
+  - Notes: https://canva.link/rdcszxrps2zytca
+
 ## Oct. 12, 2026 (1 hr)
-  - Did: Pivot tables from memory. Started Excel Formulas(5:19:00 - 5:27:49 approx)
+  - Did: Pivot tables from memory. Started Excel Formulas(5:19:00 - 5:27:49)
   - Learned: Learned about formulas in Excel, specifically: MAX, MIN, IF, IFS
-  - Stuck on: Remembering everything about sorting/displaying on the pivot tables. Need more practice
+  - Recap: Remembering everything about sorting/displaying on the pivot tables. Need more practice
   - Tomorrow: Continue Excel section starting at 5:27:00 (picking up at LEN)
   - Notes: https://canva.link/rdcszxrps2zytca
 
